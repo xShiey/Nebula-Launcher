@@ -11,3 +11,4 @@ Just a Minecraft: Java Edition launcher built with Electron and React.
 
 ## Notice
 - Nebula Launcher is an independent project made and maintained by me, xShiey.
+- Not affiliated with Mojang or Microsoft
